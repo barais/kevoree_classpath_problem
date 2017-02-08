@@ -1,0 +1,4 @@
+//sample of KevScript configuration
+add node0 : JavaNode/LATEST/LATEST
+add sync : WSGroup/LATEST/LATEST
+attach node0 sync
